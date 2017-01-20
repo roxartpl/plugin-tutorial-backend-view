@@ -16,8 +16,8 @@ Detaillierte Informationen zur Plugin-Installation finden Sie unter [plentymarke
 ## Plugin Dokumentation
 
 
-- Lernen Sie wie Sie Ihr [erstes plentymarkets Plugin](https://developers.plentymarkets.com/tutorials/helloworld) erstellen
-- Lernen Sie wie Sie Ihr [erstes plentymarkets back end view](https://developers.plentymarkets.com/tutorials/backendview) erstellen
+- Lernen Sie wie Sie Ihr erstes [plentymarkets Plugin](https://developers.plentymarkets.com/tutorials/helloworld) erstellen
+- Lernen Sie wie Sie Ihre erste [plentymarkets Backend-Ansicht](https://developers.plentymarkets.com/tutorials/backendview) erstellen
 - Übersicht der plentymarkets [Plugin-Schnittstellen](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
 - Die [REST API](https://developers.plentymarkets.com/rest-doc/introduction) von plentymarkets
 
@@ -27,7 +27,7 @@ Melden Sie sich noch heute an und werden Sie Mitglied in unserem [Forum](https:/
 
 ## Versionierung
 
-Visit our forum and find the latest news and updates in our [Changelog](https://forum.plentymarkets.com/c/changelog?order=created).
+Besuchen Sie unser Forum unf finden Sie aktuelle Nachrichten und Updates in unserem [Changelog](https://forum.plentymarkets.com/c/changelog?order=created).
 
 ## Lizenz
 
