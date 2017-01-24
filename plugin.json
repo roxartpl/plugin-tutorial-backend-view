@@ -2,7 +2,13 @@
   "name": "MyFirstView",
   "description": "My first back end view",
   "namespace": "MyFirstView",
-  "author": "Your name",
+  "author": "plentymarkets GmbH",
   "type": "backend",
-  "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider"
+  "serviceProvider": "MyFirstView\\Providers\\MyFirstViewServiceProvider",
+  "version":"0.0.1",
+  "license":"MIT",
+  "keywords":["terra","backend", "first", "view"],
+  "pluginIcon":"icon_plugin_xs.png",
+  "price":0.00,
+  "authorIcon":"icon_author_xs.png"
 }
