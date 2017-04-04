@@ -5,8 +5,8 @@
     {
       "label": "Hello World",
       "menu": "start",
-      "urlKey": "hello-world",
-      "entryPoint": "index.html"
+      "urlKey": "backfisch",
+      "entryPoint": "index.html?action=test"
     }
   ]
 }
