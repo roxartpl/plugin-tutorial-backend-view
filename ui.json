@@ -5,7 +5,7 @@
     {
       "label": "Hello World",
       "menu": "order",
-      "urlKey": "first",
+      "urlKey": "first-plugin",
       "entryPoint": "index.html"
     }
   ]
