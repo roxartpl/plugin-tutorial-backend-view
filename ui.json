@@ -3,9 +3,9 @@
   "namespace": "MyFirstView",
   "menuEntries": [
     {
-      "label": "Hello World",
-      "menu": "order",
-      "urlKey": "first-plugin",
+      "label": "DPD Plugin",
+      "menu": "start",
+      "urlKey": "dpd-plugin",
       "entryPoint": "index.html"
     }
   ]
