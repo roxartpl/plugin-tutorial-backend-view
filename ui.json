@@ -4,8 +4,8 @@
   "menuEntries": [
     {
       "label": "Hello World",
-      "menu": "start",
-      "urlKey": "hello-world",
+      "menu": "order",
+      "urlKey": "first",
       "entryPoint": "index.html"
     }
   ]
