@@ -1,6 +1,6 @@
 {
-  "name": "MyFirstPlentyView",
-  "description": "My first back end view",
+  "name": "DPD Plugin PL",
+  "description": "Plugin DPD",
   "namespace": "MyFirstView",
   "author": "plentymarkets GmbH",
   "type": "backend",
