@@ -1,6 +1,6 @@
 {
   "defaultEntryPoint": "index.html",
-  "namespace": "MyFirstView",
+  "namespace": "DPDPlugin",
   "menuEntries": [
     {
       "label": "DPD Plugin",

@@ -1,8 +1,8 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# MyFirstView plugin
+# DPDPlugin plugin
 
-This is the **MyFirstView** plugin developed by plentymarkets.
+This is the **DPDPlugin** plugin developed by plentymarkets.
 
 ## Requirements
 

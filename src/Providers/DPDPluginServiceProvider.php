@@ -1,11 +1,11 @@
 <?php
 
-namespace MyFirstView\Providers;
+namespace DPDPlugin\Providers;
 
 
 use Plenty\Plugin\ServiceProvider;
 
-    class MyFirstViewServiceProvider extends ServiceProvider
+    class DPDPluginServiceProvider extends ServiceProvider
     {
         public function register()
         {
