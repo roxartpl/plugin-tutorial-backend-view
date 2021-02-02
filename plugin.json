@@ -10,9 +10,5 @@
   "keywords": ["terra", "backend", "first", "view"],
   "pluginIcon": "icon_plugin_xs.png",
   "price": 0.0,
-  "authorIcon": "icon_author_xs.png",
-  "dependencies": {
-    "guzzlehttp/guzzle": "6.3.*",
-    "t3ko/dpd-pl-api-php": "^0.3.0"
-  }
+  "authorIcon": "icon_author_xs.png"
 }
